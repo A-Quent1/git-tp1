@@ -10,4 +10,4 @@ Les caractéristiques du Langage Java :
 
 ## Documentation
 
-Lien vers la <span class="text-danger">documentation officielle</span> : [Documentation] (https://www.doc.oracle.com/en/java/ "Documentation")
+Lien vers la <span class="text-danger">documentation officielle</span> : [Documentation](https://docs.oracle.com/en/java/ "Documentation")
